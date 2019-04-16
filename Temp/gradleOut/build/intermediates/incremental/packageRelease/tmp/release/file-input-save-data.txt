@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Apr 16 16:34:28 BST 2019
+#Tue Apr 16 16:40:55 BST 2019
 124.path=lib/armeabi-v7a/libarcore_sdk_jni.so
 60.set=ASSET
 52.set=ASSET

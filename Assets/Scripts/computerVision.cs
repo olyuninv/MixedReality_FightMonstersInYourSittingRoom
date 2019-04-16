@@ -8,7 +8,7 @@ public class ComputerVision : MonoBehaviour
     public Dictionary<uint, int[,]> circlePoints = null;
     private uint circleSteps = 0;
 
-    private float threshold = 0.40f;
+    private float threshold = 0.60f;
 
 
     public void initialiseCirclePoints(uint minRadius, uint maxRadius, uint steps)

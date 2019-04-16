@@ -295,7 +295,7 @@
                 if (edgeDetectionResultImage != null)
                 {
                     //Debug.Log("Image size: " + width + " " + height);
-                    var result = cvController.detectCircles(edgeDetectionResultImage, width, height, 320, 240, 5, 25, 35);
+                    var result = cvController.detectCircles(edgeDetectionResultImage, width, height, 320, 240, 15, 20, 40);
 
                     if (result.Count > 0)
                     {
