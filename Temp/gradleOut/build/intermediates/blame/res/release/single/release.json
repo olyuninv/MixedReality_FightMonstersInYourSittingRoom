@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\volyu\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\3288032b4c5a7be35529d1265326e84b\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_app_icon.png.flat",
+        "source": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_app_banner.png.flat",
+        "source": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\raw_keep.xml.flat",
+        "source": "C:\\Users\\volyu\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\3288032b4c5a7be35529d1265326e84b\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_app_icon.png.flat",
+        "source": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "E:\\TCD\\Augmented Reality\\projects\\ARMonsterGame_2\\Temp\\gradleOut\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    }
+]
